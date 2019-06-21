@@ -98,3 +98,5 @@
 | |__ main.js : the entry of douban-movieSPA
 |
 |__ static : static files
+
+## 总结
