@@ -46,7 +46,7 @@
 + 功能点一
 
 ## 项目目录
-> ——— build
-> ——— config
-> ——— src
+> ——— build <hr>
+> ——— config  <hr>
+> ——— src  <hr>
 > > ——— components
